@@ -19,5 +19,5 @@ Run the following commands from your terminal:
 
 ## Screenshots 
 
-<img src = "lib/7.png" height = 500 width =250 >
-<img src = "lib/0.png" height = 500 width =250 >
+  <img src = "lib/7.png" height = 426 width = 196.5 >
+  <img src = "lib/0.png" height = 426 width = 196.5 >
