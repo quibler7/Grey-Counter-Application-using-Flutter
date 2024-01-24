@@ -1,16 +1,23 @@
-# counterpage
 
-A new Flutter project.
+# Grey Counter Application using Flutter
 
-## Getting Started
+👨🏻‍💻 I made really simple aesthetic looking Counter Application📱 using Flutter✨ which does literally what its name says.
 
-This project is a starting point for a Flutter application.
+0️⃣ It shows the count on screen of how many times the button has been pressed and there is also reset button to set counter to zero value. 
 
-A few resources to get you started if this is your first Flutter project:
+💡 P.S: I have added Drawer and Floating Action Button ( with heart Icon ) just for the aesthetics :)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🪄 I learned about Stateful Widgets through this simple Application and how we can create methods and can use setState() to rebuild the widget. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Setup
+
+Run the following commands from your terminal:
+
+1) `git clone https://github.com/quibler7/Grey-Counter-Application-using-Flutter` to clone this repository 
+
+2) `flutter pub get` in the project root directory to install all the required dependencies.
+
+## Screenshots 
+
+<img src = "lib/7.png" height = 500 width =250 >
+<img src = "lib/0.png" height = 500 width =250 >
