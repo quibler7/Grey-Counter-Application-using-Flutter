@@ -19,5 +19,11 @@ Run the following commands from your terminal:
 
 ## Screenshots 
 
-  <img src = "lib/7.png" height = 426 width = 196.5 >
-  <img src = "lib/0.png" height = 426 width = 196.5 >
+  <table width = "%100">
+  <tbody>
+  <tr>
+  <td width = "%1"><img src = "https://github.com/quibler7/Grey-Counter-Application-using-Flutter/raw/main/lib/0.png" height = 426 width = 196.5 ></td>
+  <td width = "%1"><img src = "https://github.com/quibler7/Grey-Counter-Application-using-Flutter/raw/main/lib/7.png" height = 426 width = 196.5 ></td>
+  </tr>
+  </tbody>
+  </table>
