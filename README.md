@@ -7,7 +7,7 @@
 
 💡 P.S: I have added Drawer and Floating Action Button ( with heart Icon ) just for the aesthetics :)
 
-🪄 I learned about Stateful Widgets through this simple Application and how we can create methods and can use setState() to rebuild widget. 
+🪄 I learned about Stateful Widgets through this simple Application and how we can create methods and can use setState() to rebuild the widget. 
 
 ## Setup
 
